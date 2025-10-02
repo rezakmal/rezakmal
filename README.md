@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="rezakmal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezakmal&theme=dark" alt="rezakmal" /></p>
-
