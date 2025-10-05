@@ -1,4 +1,6 @@
-<img align="center" alt='coffee-cat' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/coffee-cat.gif">
+<div align="center">
+  <img alt='coffee-cat' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/coffee-cat.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Possess a strong interest in tech, especially in software engineering and machine learning</h3>
