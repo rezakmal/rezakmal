@@ -15,7 +15,13 @@
 <a href="https://instagram.com/rezakmal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezakmal_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact&count_private=true&cache_seconds=1" alt="rezakmal" /> /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact&exclude_repo=nama-repo-yang-dikecualikan&cache_seconds=1" 
+    alt="rezakmal" 
+  />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="rezakmal" /></p>
 
