@@ -18,7 +18,7 @@
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact&exclude_repo=nama-repo-yang-dikecualikan&cache_seconds=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact&exclude_repo=library-management-system&cache_seconds=1" 
     alt="rezakmal" 
   />
 </p>
