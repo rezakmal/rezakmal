@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt='coffee-cat' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/monkey-coding.gif">
+  <img alt='gif' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/monkey-coding.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Learning the logic behind backend systems and the patterns in machine learning</h3>
 
-<img align="right" alt='coffee-cat' width="400" src="https://github.com/rezakmal/rezakmal/blob/main/resource/coffee-cat.gif">
+<!-- <img align="right" alt='gif' width="200" src="https://github.com/rezakmal/rezakmal/blob/main/resource/coffee-cat.gif"> -->
 
 - 📚 Currently doing self-learning in **fullstack and backend engineering**
 - ⚡ Fun fact, **I drink coffee when I'm happy, I drink coffee when I'm stressed. Another thing is, I like basketball**
