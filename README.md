@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Learning the logic behind backend systems and the patterns in machine learning</h3>
 
-- 📚 Currently doing self-learning in **fullstack and backend engineering**
+- 📚 Currently doing self-learning in **backend engineering**, and a little bit of machine learning
 - ⚡ Fun fact, **I drink coffee when I'm happy, I drink coffee when I'm stressed. Another thing is, I like basketball**
 
 <h3 align="left">Connect with me:</h3>
