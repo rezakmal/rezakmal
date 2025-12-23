@@ -4,7 +4,7 @@
   <img alt='gif' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/monkey-coding.gif">
 </div>
 
-- 🤖 Currently doing self-learning in **backend engineering**, and a little bit of machine learning
+- 🤖 Currently doing self-learning in **software engineering**
 - ☕ Fun fact, I drink coffee when I'm happy, I drink coffee when I'm stressed
 
 <h3 align="left">🌐 Connect with me:</h3>
