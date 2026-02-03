@@ -22,9 +22,12 @@ I like breaking things down, asking "why does this work?", and learning to build
 
 <!-- <h3 align="left">💻 My tech stack & tools</h3> -->
 
-<h3 align="left">💻 Tech I've worked with</h3>
+<h3 align="left">💻 Tech I'm comfortable with</h3>
+<blockquote>
+I’ve tried other stacks, but these are the ones I’m comfortable with right now.
+</blockquote>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,python,go,react,express,postgresql,mongodb,docker)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mongodb,docker)](https://skillicons.dev)<br/>
 
 <!-- <p align="left"> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
