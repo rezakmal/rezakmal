@@ -19,10 +19,14 @@ I like breaking things down, asking "why does this work?", and learning to build
 <strong>Fun facts:</strong>
 - ☕ I drink coffee when I’m happy, stressed, or basically anytime
 - 🎬 I can binge-watch movies all day
-- 🍥 The only anime I actually watch: Naruto and Jujutsu Kaisen
 
-<h3 align="left">💻 My tech stack & tools</h3>
-<p align="left"> 
+<!-- <h3 align="left">💻 My tech stack & tools</h3> -->
+
+<h3 align="left">💻 Tech I've worked with</h3>
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,python,go,react,express,postgresql,mongodb,docker)](https://skillicons.dev)<br/>
+
+<!-- <p align="left"> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -53,7 +57,7 @@ I like breaking things down, asking "why does this work?", and learning to build
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
     <img src="/resource/obsidian-icon.svg" alt="Obsidian" width="40" height="40"/> 
   </a>
-</p>
+</p> -->
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
