@@ -27,7 +27,7 @@ I like breaking things down, asking "why does this work?", and learning to build
 I’ve tried other stacks, but these are the ones I’m comfortable with right now.
 </blockquote>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mongodb,docker)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mongodb)](https://skillicons.dev)<br/>
 
 <!-- <p align="left"> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
