@@ -29,6 +29,6 @@ Outside of code, you'll find me in a coffeeshop, or watching movies.
 > "Great engineering is about solving real-world problems efficiently and driving business impact."
 
 
-### 💻 Tech I've used in Projects and Work Experience
+<!-- ### 💻 Tech I've used in Projects and Work Experience
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,go,python,postgresql,prisma,mongodb,graphql,jest)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,go,python,postgresql,prisma,mongodb,graphql,jest)](https://skillicons.dev)<br/> -->
