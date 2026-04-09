@@ -1,75 +1,34 @@
-<!-- <h3 align="">Hi! 👋 I'm Reza</h3> -->
-<h3 align="">Hi there! 👋</h3>
+<!-- <h3 align="">Hi there! 👋</h3> -->
+## Hi there, I'm Reza! 👋
 
-<!-- <div align="center">
-  <img alt='gif' width="250" src="https://github.com/rezakmal/rezakmal/blob/main/resource/monkey-coding.gif">
-</div> -->
+I'm a software engineer who enjoys thinking about systems more than screens. I like breaking things down, asking "*why does this work?*" and "*how does this work?*", and continuously learning to build better systems over time.
 
-I'm Reza, a software engineer who enjoys thinking about systems more than screens.
-I like breaking things down, asking "why does this work?", and learning to build better things over time.
+Outside of code, you'll find me in a coffeeshop, or watching movies.
 
+<!--
 **These days I’m focused on:**
-<!-- - 🤖 Self-learning in **software engineering**, mostly backend, using the Node.js ecosystem -->
-
+- 🤖 Self-learning in **software engineering**, mostly backend, using the Node.js ecosystem
 - ⚙️ Backend engineering with Node.js
 - 🗄️ Understanding and working with databases and system flows
 - 🔗 Designing, developing, and working with modern APIs
 - 🧩 Building small backend projects and making better systems over time
+-->
 
-<strong>Fun facts:</strong>
-- ☕ I drink coffee when I’m happy, stressed, or basically anytime
-- 🎬 I can binge-watch movies all day
+### 🧩 Current Focus
+- Sharpening my skills in software engineering, primarily in backend development through internship and self-learning
+- Understanding and working with databases and system flows
+- Designing, developing, and working with modern APIs
+- Building side projects and continuously improving systems over time
+- Curious about DevOps realm in depth
 
-<!-- <h3 align="left">💻 My tech stack & tools</h3> -->
+### ☕ Fun Facts About Me
+- I drink coffee when I’m happy, stressed, or basically almost anytime
+- I can binge-watch movies all day
 
-<h3 align="left">💻 Tech I'm comfortable with</h3>
-<blockquote>
-I’ve tried other stacks, but these are the ones I’m comfortable with right now.
-</blockquote>
+### ⚙️ My Engineering Philosophy
+> "Great engineering is about solving real-world problems efficiently and driving business impact."
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mongodb)](https://skillicons.dev)<br/>
 
-<!-- <p align="left"> 
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>    
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="/resource/express-js.png" alt="express" width="40" height="40"/>    
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.notion.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/> 
-  </a>
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-    <img src="/resource/obsidian-icon.svg" alt="Obsidian" width="40" height="40"/> 
-  </a>
-</p> -->
+### 💻 Tech I've used in Projects and Work Experience
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rezaakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaakmal" height="30" width="40" /></a>
-<a href="https://instagram.com/rezakmal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezakmal_" height="30" width="40" /></a>
-<a href="https://medium.com/@rezaakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rezaakmal" height="30" width="40" /></a>
-</p>
-
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact&exclude_repo=library-management-system&cache_seconds=1" alt="rezakmal top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rezakmal&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="rezakmal github stats" />
-</p> -->
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,go,python,postgresql,prisma,mongodb,graphql,jest)](https://skillicons.dev)<br/>
